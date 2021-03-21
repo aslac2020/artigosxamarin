@@ -1,0 +1,14 @@
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\bin\Debug\netstandard2.0\helloWorld.deps.json
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\bin\Debug\netstandard2.0\helloWorld.dll
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\bin\Debug\netstandard2.0\ref\helloWorld.dll
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\bin\Debug\netstandard2.0\helloWorld.pdb
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\helloWorld.csprojAssemblyReference.cache
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\helloWorld.AssemblyInfoInputs.cache
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\helloWorld.AssemblyInfo.cs
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\helloWorld.csproj.CoreCompileInputs.cache
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\helloWorld.dll
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\ref\helloWorld.dll
+E:\artigos medium\HelloWorld\helloWorld\helloWorld\helloWorld\obj\Debug\netstandard2.0\helloWorld.pdb

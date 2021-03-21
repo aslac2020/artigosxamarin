@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5g7dfcBcXMXU4hetA4AcH7Y7QynWkCutsVz2quyr+cUHeOYgpu9hFNOjeDmgBIc3RqFVLbTcvJ3vFz58BEVVSw==",
+  "success": true,
+  "projectFilePath": "E:\\artigos medium\\HelloWorld\\helloWorld\\helloWorld\\helloWorld.iOS\\helloWorld.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
